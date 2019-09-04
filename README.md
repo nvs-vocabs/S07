@@ -1,6 +1,6 @@
 # S07
-BODC parameter semantic model parameter statistic
+A controlled vocabulary for statistical terms that may be used in the BODC parameter semantic model
 
-Controlled vocabulary defining the terms that may be used for a parameter statistic (part of the what theme) in the BODC parameter semantic model.
+Terms and mappings available from: http://vocab.nerc.ac.uk/collection/S07/current/
 
-Governance: British Oceanographic Data Centre
+Search interface: https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/S07/
